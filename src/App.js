@@ -21,6 +21,7 @@ const ContactsTable = () => {
       <h2 style={{
         color: "white"
       }}
+      
       >Contacts List</h2>
       <table
         border="1"
